@@ -13,6 +13,12 @@
 * **Customizable & Developer-Friendly**: Tailor AI behavior and settings for your workflow.
 
 ---
+## Architecture Diagram
+
+![Architecture Diagram](
+https://github.com/imtiyazahmed1650/CoderBuddy/blob/7914303a43759ff320185ce4bb92bac3a78cf18c/resources/coder_buddy_diagram.png)
+
+
 
 ## 🛠️ Technology Stack
 
